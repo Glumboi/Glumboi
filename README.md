@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Glumboi
+- 👀 I’m interested in making games, mods for games and games
+- 🌱 I’m currently learning C++, C# and a bit of Python
+- 📫 You can reach me via email: merlinklenske06@gmail.com 
