@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Glumboi
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
 - 🌱 I’m currently learning C++, C# and a bit of Python
-- 📫 You can reach me via email: merlinklenske06@gmail.com 
+- 📫 You can reach me via email: glumboi.contact@gmail.com
