@@ -2,3 +2,4 @@
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
 - 🌱 I’m currently learning C++, C# and a bit of Python
 - 📫 You can reach me via email: glumboi.contact@gmail.com
+- 🐐 Programming since October 2021
