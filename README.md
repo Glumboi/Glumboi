@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glumboi)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glumboi&show_icons=true&theme=dark)
 
 
 - 👋 Hi, I’m @Glumboi and I’m 15 years old
