@@ -4,7 +4,7 @@
 
 # My used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glumboi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glumboi&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m @Glumboi and I’m 15 years old
