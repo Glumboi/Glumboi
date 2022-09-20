@@ -10,5 +10,5 @@
 - 👋 Hi, I’m @Glumboi and I’m 15 years old
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
 - 🌱 I’m currently mainly learning C# and a bit of Python and C++
-- 📫 You can reach me via email: glumboi.contact@gmail.com
+- 📫 You can reach me via email: glumboi.contact@gmail.com and via Discord: Glumboi#4563
 - 🐐 Programming since October 2021
