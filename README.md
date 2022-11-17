@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glumboi</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glumboi" alt="glumboi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=glumboi&label=Profile%20views&color=0e75b6&style=flat" alt="glumboi" /> </p>
 
 - 🔭 I’m currently working on [GlumSak](https://github.com/Glumboi/GlumSak)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/glumboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="glumboi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uczqrad0nd36sgtsqcjudh0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczqrad0nd36sgtsqcjudh0g" height="30" width="40" /></a>
 <a href="https://discord.gg/#4563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4563" height="30" width="40" /></a>
 </p>
 
