@@ -13,10 +13,9 @@ I have a big interest in programming ever since I was 11, back then I used to fo
 
 ### My personallity
 
-I'm an introvert and very very shy and got some social anxiety + a depression, I spend most of the time in my room porgramming which keeps me happy.
+I'm an introvert and very very shy dude and got some social anxiety + a depression, I spend most of the time in my room porgramming which keeps me happy.
 
 # Other information about me
-- 👋 Hi, I’m @Glumboi and I’m 15 years old
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
 - 🌱 I’m currently mainly learning C# and a bit of Python and C++
 - 📫 You can reach me via email: glumboi.contact@gmail.com and via Discord: Glumboi#4563
