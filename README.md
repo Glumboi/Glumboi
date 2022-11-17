@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Glumboi</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glumboi&label=Profile%20views&color=0e75b6&style=flat" alt="glumboi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glumboi" alt="glumboi" /></a> </p>
 
 - 🔭 I’m currently working on [GlumSak](https://github.com/Glumboi/GlumSak)
