@@ -13,7 +13,7 @@
 - 📫 You can reach me via email: glumboi.contact@gmail.com and via Discord: Glumboi#4563
 - 🐐 Programming since October 2021
   
-  <p align="left"> <a href="https://github.com/Enum0x539"><img src="https://github-profile-trophy.vercel.app/?username=Enum0x539" alt="Glumboi" /></a> </p>
+  <p align="left"> <a href="https://github.com/Glumboi"><img src="https://github-profile-trophy.vercel.app/?username=Enum0x539" alt="Glumboi" /></a> </p>
   
   ### Contribution Graph
   
