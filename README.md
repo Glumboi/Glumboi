@@ -5,7 +5,7 @@ I have a big interest in programming ever since I was 11, back then I used to fo
 
 # My personallity
 
-I'm an introvert and very very shy dude and got some social anxiety + a depression, I spend most of the time in my room porgramming which keeps me happy.
+I'm an introvert and very very shy dude that got some social anxiety + a depression, I spend most of the time in my room porgramming which keeps me happy.
 
 # Other information about me
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
