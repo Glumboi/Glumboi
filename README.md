@@ -1,6 +1,6 @@
 # Some info about me
 
-I am a 15 year old german dude who started with serious programming in october 2021, since then I did many projects already. From image converter to performance display apps!
+I am a 16 year old german dude who started with serious programming in october 2021, since then I did many projects already. From image converter to performance display apps!
 I have a big interest in programming ever since I was 11, back then I used to follow some little python tutorials along and modify things a little bit to my likings.
 
 # My personallity
