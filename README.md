@@ -7,6 +7,10 @@ I have a big interest in programming ever since I was 11, back then I used to fo
 
 I'm an introvert and very very shy dude that got some social anxiety + a depression, I spend most of the time in my room porgramming which keeps me happy.
 
+# Support me with a small tip
+
+https://ko-fi.com/glumboi
+
 # Other information about me
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
 - 🌱 I’m currently mainly learning C# and a bit of Python and C++
