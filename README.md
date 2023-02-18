@@ -10,6 +10,7 @@ I'm an introvert and very very shy dude that got some social anxiety + a depress
 # Support me with a small tip
 
 https://ko-fi.com/glumboi
+Or: (BTC) bc1qrfdct0ryhtf209z9xegqqafylyrv8ssnq5vmyu
 
 # Other information about me
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
@@ -25,4 +26,3 @@ https://ko-fi.com/glumboi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glumboi&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Donate me via crypto (BTC): bc1qrfdct0ryhtf209z9xegqqafylyrv8ssnq5vmyu
