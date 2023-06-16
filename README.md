@@ -15,7 +15,7 @@ Or: (BTC) bc1qrfdct0ryhtf209z9xegqqafylyrv8ssnq5vmyu
 # Other information about me
 - 👀 I’m interested in making apps in wpf and winforms, mods for games and games
 - 🌱 I’m currently mainly learning C# and a bit of Python and C++
-- 📫 You can reach me via email: glumboi.contact@gmail.com and via Discord: Glumboi#4563
+- 📫 You can reach me via email: glumboi.contact@gmail.com and via Discord: "glumboi"
 - 🐐 Programming and improving Games since 2021
 
 # My Stats
