@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Glumboi</h1>
+<h1 align="center">Hi 👋, I'm Glumboi (Aka. Glummy)</h1>
 <h3 align="center">A passionate C# developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glumboi&label=Profile%20views&color=0e75b6&style=flat" alt="glumboi" /> </p>
 
+- 🔭 I’m currently working on: [GlumSak](https://github.com/Glumboi/GlumSak)
+
+- 🌱 I’m currently learning: **C#, C++ and a little of Python**
+
+- 📫 How to reach me: **glumboi.contact@gmail.com**
+
+- ⚡ Fun fact: **Not a 'fun' fact, but I grew up isolated in my room with depression and social anxiety ever since I am 11 and learned programming and other tech related things through that.**
+
 - 💰 Support me with a tip: [My Patreon](https://www.patreon.com/Glummy)
-
-- 🔭 I’m currently working on [GlumSak](https://github.com/Glumboi/GlumSak)
-
-- 🌱 I’m currently learning **C#, C++ and a little of Python**
-
-- 📫 How to reach me **glumboi.contact@gmail.com**
-
-- ⚡ Fun fact **Not a 'fun' fact, but I grew up isolated in my room with depression and social anxiety ever since I am 11 and learned programming and other tech related things through that.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
