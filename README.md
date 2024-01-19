@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **glumboi.contact@gmail.com**
 
-- ⚡ Fun fact: **Not a 'fun' fact, but I grew up isolated in my room with depression and social anxiety ever since I am 11 and learned programming and other tech related things through that.**
+- ⚡ Fun fact: **I love flashy colors, specially hair colors, nail colors and flashy clothing**
 
 - 💰 Support me with a tip: [My Patreon](https://www.patreon.com/Glummy)
 
