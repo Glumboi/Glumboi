@@ -20,7 +20,7 @@
   I suffer alot from anxiety, depression and general worthless type of feelings and every day feels like it doubles down.
   And this here is where I get my strenght from to keep going, showing myself every once in a while what I accomplished, on github, nexusmods and general online presence keeps on motivating me.
 
-  This year I decided to dive deeper into the realm of reverse engineering and general more low level things, in an addition to that, I will form now on take more time to finish my projects instead of rushing out new ones in a single night (Yea, half of the   stuff I have put here has been created in less than a day).
+  This year (2024) I decided to dive deeper into the realm of reverse engineering and general more low level things, in an addition to that, I will form now on take more time to finish my projects instead of rushing out new ones in a single night (Yea, half of the   stuff I have put here has been created in less than a day).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
