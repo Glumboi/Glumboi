@@ -13,7 +13,8 @@
 
 - 💰 Support me with a tip: [My Patreon](https://www.patreon.com/Glummy)
 
-- More info 
+- More info:
+  
   Lots of the projects here on my Github are more or less just "proof of concepts", I work on countless things at the same time while my head already goes over the next, it's quite exhausting but fun.
   As of april 2024, I got more than 500 projects already on my drives (excluding published projects), most of them not finished or put on hold, I have been putting my all in learning and creating anything imagineable into tech since october 2021.
   I suffer alot from anxiety, depression and general worthless type of feelings and every day feels like it doubles down.
