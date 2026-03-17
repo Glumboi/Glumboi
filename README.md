@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glumboi&label=Profile%20views&color=0e75b6&style=flat" alt="glumboi" /> </p>
 
-- 🔭 I’m currently working on: [GlumSak](https://github.com/Glumboi/GlumSak)
-
-- 🌱 I’m currently learning: **C#, C++ and a little of Python**
-
-- 📫 How to reach me: **glumboi.contact@gmail.com**
-
-- ⚡ Fun fact: **I love flashy colors, specially hair colors, nail colors and flashy clothing**
-
-- 💰 Support me with a tip: [My Patreon](https://www.patreon.com/Glummy)
+- 📫 E-Mail: **glumboi.contact@gmail.com**
 
 - More info:
   
@@ -20,7 +12,7 @@
   I suffer alot from anxiety, depression and general worthless type of feelings and every day feels like it doubles down.
   And this here is where I get my strenght from to keep going, showing myself every once in a while what I accomplished, on github, nexusmods and general online presence keeps on motivating me.
 
-  This year (2024) I decided to dive deeper into the realm of reverse engineering and general more low level things, in addition to that, I will from now on take more time to finish my projects instead of rushing out new ones in a single night (Yea, half of the   stuff I have put here has been created in less than a day).
+  This year (2024) I decided to dive deeper into the realm of reverse engineering and general more low level things, in addition to that, I will from now on take more time to finish my projects instead of rushing out new ones in a single night (Yea, half of the stuff I have put here has been created in less than a day, the foundation anyway).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
